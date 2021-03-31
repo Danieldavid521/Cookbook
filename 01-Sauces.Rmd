@@ -1,0 +1,16 @@
+# Sauces
+
+```{css, echo=FALSE}
+p, body {
+  font-color: #FFD55A
+}
+```
+
+- Blender
+- Pots
+- Skillets   
+- Oven
+- Electric stove top
+- Sharp knife ```r emo::ji("knife") ```
+
+

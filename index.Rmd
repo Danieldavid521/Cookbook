@@ -1,0 +1,20 @@
+--- 
+title: "Family Cookbook"
+author: "Danieldavid521"
+date: "`r Sys.Date()`"
+output: bookdown::gitbook
+site: bookdown::bookdown_site
+description: "Family recipes and home cooked favorites"
+css: style2.css
+---
+
+# Introduction {-}
+
+
+ 
+![](images/cover.jpg)
+
+
+
+
+

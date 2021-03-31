@@ -1,0 +1,42 @@
+.navbar-inverse {
+background: #81FF14;
+  }
+.navbar-inverse .navbar-brand {
+background: #81FF14;
+  }
+.navbar-inverse .navbar-nav>li>a {
+ background: #81FF14;
+}
+.navbar-inverse .navbar-nav>.active>a {
+  background: #81FF14;
+  border: none;
+  border-radius: 25px;
+  color: snow; 
+  cursor: pointer;
+  font-size: 1.25em;
+  letter-spacing: .1em;
+  outline: none;
+  padding: .75em 2em;
+  position: relative; 
+  text-transform: uppercase;
+}
+.list-group-item.active {
+  background: #4CAF50;
+  border: none;
+  border-radius: 25px;
+  color: snow; 
+  cursor: pointer;
+  font-size: 1.25em;
+  letter-spacing: .1em;
+  outline: none;
+  padding: .75em 2em;
+  text-transform: uppercase;
+}
+item.active, .list-group-item.active:hover {
+  background-color: #9d9d9d;
+  border-color: #9d9d9d;
+}
+
+body {background-color: #9d9d9d;}
+
+
